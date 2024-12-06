@@ -37,26 +37,26 @@
 
 ## 🛠️ **분석 과정**
 ### 데이터 전처리
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/first.jpg" alt="데이터 전처리" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/first.png" alt="데이터 전처리" width="100%"/>
 
 ### 데이터 시각화
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/mat.jpg" alt="데이터 시각화" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/mat.png" alt="데이터 시각화" width="100%"/>
 
 ### 난수 생성 및 상승률 기반 데이터 생성
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/ran.jpg" alt="난수 생성" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/ran.png" alt="난수 생성" width="100%"/>
 
 ### 데이터 통합
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/second.jpg" alt="데이터 통합" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/second.png" alt="데이터 통합" width="100%"/>
 
 ### 데이터 예측
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/third.jpg" alt="데이터 예측" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/third.png" alt="데이터 예측" width="100%"/>
 
 ### 표준화 (Standard Scaling)을 통한 정확도 향상
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/fourth.jpg" alt="정확도 향상" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/fourth.png" alt="정확도 향상" width="100%"/>
 
 ### 지역별 데이터 예측 및 시각화
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/last.jpg" alt="지역별 데이터 예측" width="100%"/>
-<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/fifth.jpg" alt="지역별 데이터 시각화" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/last.png" alt="지역별 데이터 예측" width="100%"/>
+<img src="https://github.com/shahmaran0207/credit_card_predict/blob/main/fifth.png" alt="지역별 데이터 시각화" width="100%"/>
 
 ---
 
